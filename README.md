@@ -3,7 +3,12 @@
 Live Demo: https://rajeev0590.github.io/Matrix-Calculator/ .
 
 
-• A simple matrix calculator that performs essential matrix operations, including arithmetic operations, rank calculation, transposition, and determinant finding for two matrices (A and B). This project is designed to help users easily manipulate and analyze matrices.
+• Revolutionized matrix calculations with
+user-friendly calculator for determinant, rank 
+transpose and other arithmetic operations.
+
+• Created efficient matrix data input/display
+interfaces.
 
 
 FEATURES
